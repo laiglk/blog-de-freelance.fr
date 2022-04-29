@@ -2,7 +2,7 @@
 type: drawer
 logo:
   src: ../assets/logo.svg
-  alt: logo
+  alt: logo de blog de freelance
 tabs:
   - type: follow
     label: Tutoriels
@@ -17,14 +17,14 @@ tabs:
 actions:
   - type: follow
     theme: primary
-    label: Créer un site gratuitement
+    label: Créer mon Blog de Freelance
     url: /tutoriels/creer-son-premier-site/
     rel: follow
     target: self
   - type: follow
     theme: secondary
-    label: Se rendre sur Foudroyer
-    url: https://dashboard.foudroyer.com
+    label: Se faire accompagner
+    url: /
     rel: follow
     target: blank
 ---
