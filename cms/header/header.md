@@ -2,7 +2,7 @@
 type: header
 logo:
   src: ../assets/logo.svg
-  alt: logo de foudroyer
+  alt: logo de blog de freelance
 tabs:
   - type: follow
     theme: link
@@ -10,11 +10,16 @@ tabs:
     url: /tutoriels
     rel: follow
     target: self
+  - label: default text
+    rel: follow
+    target: self
+    theme: link
+    url: /
 right:
   - type: follow
     theme: button
-    label: Créer un site gratuitement
-    url: /tutoriels/creer-son-premier-site/
+    label: Créer mon Blog de Freelance
+    url: /
     rel: follow
     target: self
 ---
